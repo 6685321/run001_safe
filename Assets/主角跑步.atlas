@@ -1,0 +1,76 @@
+
+主角跑步.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+人物骨架/竲__2
+  rotate: false
+  xy: 381, 258
+  size: 303, 352
+  orig: 303, 352
+  offset: 0, 0
+  index: -1
+人物骨架/竲玡_2
+  rotate: false
+  xy: 349, 1
+  size: 464, 255
+  orig: 464, 255
+  offset: 0, 0
+  index: -1
+人物骨架/竲
+  rotate: false
+  xy: 381, 612
+  size: 369, 279
+  orig: 369, 279
+  offset: 0, 0
+  index: -1
+人物骨架/竲玡
+  rotate: false
+  xy: 1, 503
+  size: 378, 401
+  orig: 378, 401
+  offset: 0, 0
+  index: -1
+人物骨架/オも______
+  rotate: false
+  xy: 1174, 289
+  size: 218, 223
+  orig: 218, 223
+  offset: 0, 0
+  index: -1
+人物骨架/オも____玡
+  rotate: false
+  xy: 1174, 1
+  size: 255, 286
+  orig: 255, 286
+  offset: 0, 0
+  index: -1
+人物骨架/ō
+  rotate: false
+  xy: 1, 1
+  size: 346, 500
+  orig: 346, 500
+  offset: 0, 0
+  index: -1
+人物骨架/も_______
+  rotate: false
+  xy: 686, 327
+  size: 182, 139
+  orig: 182, 139
+  offset: 0, 0
+  index: -1
+人物骨架/も______玡_
+  rotate: false
+  xy: 1431, 1
+  size: 191, 358
+  orig: 191, 358
+  offset: 0, 0
+  index: -1
+人物骨架/繷
+  rotate: false
+  xy: 815, 1
+  size: 357, 324
+  orig: 357, 324
+  offset: 0, 0
+  index: -1
